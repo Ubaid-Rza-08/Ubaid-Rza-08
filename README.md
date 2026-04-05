@@ -1,67 +1,134 @@
-<h1 align="center">Hi there 👋, I'm Mo. Ubaid Rza</h1>
+<div align="center">
 
-<h3 align="center">🚀 Java Developer | Microservices Enthusiast | Hackathon Winner</h3>
+# MO. UBAID RZA
+### ☕ Java Developer · ☁️ Cloud Architect · 🤖 AI Integrator
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ubaid-rza">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ubaidrza2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p>
+  <a href="mailto:ubaidrza2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-ubaidrza2005-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Ubaid-Rza-08"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Ubaid-Rza-08"><img src="https://img.shields.io/badge/GitHub-Ubaid--Rza--08-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://ubaid-rza-08.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-ff4757?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Ubaid-Rza-08&style=flat-square&color=brightgreen" alt="Profile Views"/>
 </p>
 
----
+*"Building scalable systems that solve real problems — from soil sensors to stock exchanges."*
 
-## 👨‍💻 About Me
-
-- [cite_start]🎓 I'm currently pursuing my B.Tech in Computer Science at Jabalpur Engineering College (2023-2027)[cite: 40, 41, 42].
-- [cite_start]💡 I specialize in building scalable, AI-integrated microservices using **SpringBoot, Spring AI, and React**[cite: 5].
-- [cite_start]☁️ I'm actively modernizing infrastructure and driving efficient deployments using **AWS, Docker, and Kubernetes**[cite: 6].
-- [cite_start]🏆 I'm a hackathon-winning problem solver—recently won Hack&Make (MP's largest hackathon) and was honored by the CM of MP[cite: 7, 49, 50].
-- [cite_start]💼 Currently working as a Core System Engineer at Starial, architecting intelligent cataloging systems and automated CI/CD pipelines[cite: 25, 27, 31].
-- 🌱 I am constantly exploring data structures, algorithms, and advanced system design principles to build highly optimized backends.
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 About Me
 
-### 💻 Languages & Databases
-[cite_start]![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) [cite: 11]
-[cite_start]![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) [cite: 11]
-
-### ⚙️ Backend & Frameworks
-[cite_start]![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) [cite: 11]
-[cite_start]![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) [cite: 11]
-[cite_start]![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white) [cite: 11]
-[cite_start]![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) [cite: 11]
-[cite_start]![Microservices](https://img.shields.io/badge/Microservices-0089D6?style=for-the-badge&logo=microservices&logoColor=white) [cite: 11]
-
-### 🌐 Frontend
-[cite_start]![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [cite: 11]
-
-### ☁️ DevOps, Cloud & Tools
-[cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) [cite: 11]
-[cite_start]![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) [cite: 11]
-[cite_start]![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) [cite: 11]
-[cite_start]![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) [cite: 11]
-[cite_start]![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) [cite: 11]
-[cite_start]![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) [cite: 11]
-[cite_start]![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) [cite: 11]
-
-### 🔄 Messaging & Caching
-[cite_start]![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) [cite: 11]
-[cite_start]![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) [cite: 11]
-[cite_start]![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white) [cite: 11]
-
-## 🧠 Professional Skills
-- **Agile Methodology** | **Design Understanding** | **Team Collaboration** | **Problem Solving** | [cite_start]**Visual Design** [cite: 8, 9, 11]
+🚀 Java & Spring Boot developer building AI-powered microservices deployed on AWS.  
+🏆 Hackathon winner recognized by the CM of MP & invited to NSE Mumbai.  
+⚡ I turn real-world problems into production-grade cloud systems — fast.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ubaid-Rza-08&show_icons=true&theme=transparent&hide_border=true&title_color=6DB33F&text_color=ffffff&icon_color=6DB33F" alt="Ubaid's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaid-Rza-08&theme=transparent&hide_border=true&title_color=6DB33F&text_color=ffffff&icon_color=6DB33F&ring=6DB33F" alt="Ubaid's GitHub Streak" />
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 Smart Crop Advisory System
+> *Empowering 500M+ Indian farmers with AI-driven insights*
+
+A production-grade agricultural intelligence platform built for accessibility.
+
+- 🤖 **Google Gemini AI** + **Apache Kafka** for async soil analysis & crop recommendations
+- 🌐 **11 Indian languages** supported via ElevenLabs TTS — built for rural accessibility
+- ☁️ **3 Spring Boot microservices** on **AWS EKS** + Terraform + GitHub Actions CI/CD
+- 📱 React 19 frontend with JWT auth, Twilio OTP, Redis caching & OpenWeatherMap
+
+---
+
+### 🏨 Hotel Management System
+> *Cloud-native booking platform with 5 microservices*
+
+End-to-end hotel booking system designed for scale.
+
+- 🏗️ **5 Spring Boot microservices** (Auth · Hotel · Room · Booking · Payment) + Firebase Firestore
+- 💳 **Razorpay** payments · **Cloudinary** media · **JWT + Google OAuth2** authentication
+- 🚀 Deployed on **AWS EKS** via **Terraform** with fully automated CI/CD through GitHub Actions
+
+---
+
+### 📦 Intelligent Central Cataloguing System (ICCS) @ Starial
+> *Distributed catalog intelligence for multi-marketplace e-commerce*
+
+- 🔍 AI-assisted ingestion pipelines for automated product catalog generation
+- 🔄 Real-time inventory sync across multiple marketplaces
+- 📊 Image-based product discovery with intelligent matching
+
+---
+
+## 🏆 Achievements
+
+| 🥇 | Achievement | Date |
+|----|-------------|------|
+| 🏆 | **Winner — Hack&Make** (Largest Hackathon in MP) · Honored by CM Dr. Mohan Yadav | Jan 2026 |
+| 🎖️ | **Invited to NSE Mumbai** · Honored by MSME Minister of Maharashtra | Jan 2026 |
+| 🥇 | **Winner — Vibe Coding Hackathon** | Sep 2025 |
+| 🥈 | **Runner-Up — Internal SIH Hackathon** | Jul 2025 |
+| 📜 | Master Microservices with Spring Boot & Spring AI (Certificate) | May 2025 |
+| 📜 | Full Stack AI DevOps — AWS, Azure, GCP, K8S (Certificate) | Feb 2025 |
+
+---
+
+## 💼 Experience
+
+**🔷 Core System Engineer — Starial** *(Dec 2025 – Present)*
+> Architecting ICCS with scalable Spring Boot services, AI pipelines, and distributed real-time systems
+
+**🔶 Intern — DSS-Solution** *(Sep – Dec 2025)*
+> Backend dev with Java + Spring Boot · Spring AI integration · 30% API performance improvement
+
+---
+
+
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science** — Jabalpur Engineering College *(2023–2027)*
+> CGPA: 7.5/10 · DSA · OS · DBMS · Networks · Software Engineering
+
+---
+
+<div align="center">
+
+### 💬 Languages
+English · हिंदी
+
+---
+
+*"Code is poetry. Deploy it like art."*
+
+⭐ **If you find my work useful, consider starring the repos!** ⭐
+
 </div>
